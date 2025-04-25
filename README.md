@@ -9,30 +9,30 @@
 
 ## 2. Fungsi Utama Sistem Operasi
 
-### 1. Menjalankan Program
+### Menjalankan Program
 - Memuat dan menjalankan aplikasi.
 - **Contoh:** Menjalankan browser atau aplikasi pengolah kata.
 
-### 2. Operasi Input/Output
+### Operasi Input/Output
 - Mengelola interaksi dengan perangkat I/O.
 - **Contoh:** Menyimpan file ke harddisk atau mencetak dokumen.
 
-### 3. Pengelolaan File
+### Pengelolaan File
 - Membaca, menulis, dan mengorganisasi file.
 - **Contoh:** Membuka, memindahkan, atau menghapus file.
 
-### 4. Komunikasi Antar Proses
+### Komunikasi Antar Proses
 - Memfasilitasi komunikasi antar program yang sedang berjalan.
 - **Contoh:** Web server dan database saling bertukar data.
 
-### 5. Deteksi Kesalahan
+### Deteksi Kesalahan
 - Mendeteksi kesalahan pada perangkat keras atau perangkat lunak.
 
-### 6. Proteksi
+### Proteksi
 - Mengatur hak akses pengguna ke sumber daya.
 - **Contoh:** User biasa tidak bisa mengubah file sistem.
 
-### 7. Akuntansi
+### Akuntansi
 - Memonitor penggunaan sumber daya.
 - **Contoh:** Mencatat pemakaian CPU oleh user tertentu.
 
