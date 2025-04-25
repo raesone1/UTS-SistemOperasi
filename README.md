@@ -65,18 +65,17 @@ stateDiagram-v2
 
 ### Rekomendasi OS
 
-#### Linux (RHEL, CentOS, Ubuntu Server)
-- Open-source, hemat sumber daya.
-- Mendukung Docker dan KVM.
-- Cocok untuk aplikasi web dan database.
+#### Linux (RHEL, Ubuntu Server, CentOS)
+- Sistem berbasis open-source yang ringan dan fleksibel.
+- Mendukung teknologi virtualisasi seperti Docker dan KVM.
+- Efektif untuk layanan web dan penyimpanan data.
 
 #### Windows Server
-- GUI intuitif.
-- Integrasi dengan Active Directory & SQL Server.
-- Cocok untuk lingkungan enterprise.
+- Antarmuka grafis memudahkan administrasi.
+- Terintegrasi baik dengan sistem Microsoft seperti Active Directory dan SQL Server.
+- Cocok untuk lingkungan kantor atau perusahaan besar.
 
-### Aplikasi Penunjang
-
+### Perangkat Pendukung Server
 - **Virtualisasi/Kontainer:** VMware vSphere, Kubernetes
 - **Load Balancer:** Nginx, HAProxy
 - **Monitoring:** Prometheus + Grafana, Zabbix
