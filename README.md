@@ -38,7 +38,7 @@
 
 ---
 
-## 3. Diagram Status Proses
+## 2. Diagram Status Proses
 
 ```mermaid
 stateDiagram-v2
